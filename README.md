@@ -1,2 +1,2 @@
 # gitintro
-Git introductary test repo
+I am editing the README file.
